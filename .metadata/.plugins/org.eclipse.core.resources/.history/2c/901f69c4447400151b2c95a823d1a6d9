@@ -1,0 +1,15 @@
+
+public class Assignment_3 {
+
+	public static void main(String[] args) {
+		int x;
+		int y;
+		
+		x = NoGo
+		y = 15.1
+		
+		System.out.println("Int data type are only able to store whole numbers that range from -128 to 127");
+
+	}
+
+}

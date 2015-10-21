@@ -1,0 +1,12 @@
+
+public class Assignment_4 {
+
+	public static void main(String[] args) {
+		
+		for (int d = 30; d <=31; d++);
+		
+		System.out.println(d);
+
+	}
+
+}

@@ -1,0 +1,18 @@
+
+public class Assignment_4 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Total number of days in the given month");
+		//System.out.println("Days");
+		
+		for (int i = 1; i <= 31; i++)
+		{
+			System.out.println(i);
+						
+		}
+		
+	}
+}
+
+
